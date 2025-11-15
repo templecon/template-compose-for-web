@@ -1,6 +1,6 @@
 # How to use
 ```bash
-git clone -b "compose-for-web" https://github.com/concertypin/template
+git clone https://github.com/templecon/template-compose-for-web
 ```
 
 # How to build
